@@ -1,0 +1,21 @@
+HTML tags used:
+- <!DOCTYPE>
+- <html>, <head>, <meta>, <title>
+- <body>, <nav>, <ul>, <li>, <a>, <div>, <h1>, <p>, <button>, <script>
+
+CSS properties:
+- background-color
+- font-family
+- color
+- font-weight
+- font-size
+- margin
+
+JS:
+- changeLang(lang) function toggles EN/PL text
+- Uses innerText to replace heading and paragraph
+
+Bootstrap:
+- Navbar: .navbar, .navbar-dark, .bg-dark
+- Grid: .container, .mt-5
+- Button classes: .btn, .btn-outline-light
